@@ -2,6 +2,13 @@
 
 This format is based on [Keep A Changelog](https://keepachangelog.com/en/1.0.0).
 
+## 3.3.0 -- 2022-08-23
+
+### Added
+
+* A new `Plutarch.Extra.Time` module, containing utilities for working with bounded
+  time range.
+
 ## 3.2.0 -- 2022-08-22
 
 ### Changed
